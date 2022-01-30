@@ -44,5 +44,7 @@ int main()
     }
     col_strt++;
     }
+
+    
     return 0;
 }
